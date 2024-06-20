@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## This project will continue whenever i have OpenAI key for free T.T
+
 First, run the development server:
 
 ```bash
